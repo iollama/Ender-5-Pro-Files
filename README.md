@@ -15,4 +15,7 @@ So that you don't have to risk making typos by manually typing out the start and
 - [Ender 5 Pro Start G-code](https://github.com/iollama/Ender-5-Pro-Files/blob/main/ender-5-pro-start-code.txt)
 - [Ender 5 Pro End G-code](https://github.com/iollama/Ender-5-Pro-Files/blob/main/ender-5-pro-end-code.txt)
 
-The spesific printer that I am using has a Direct Drive Mod (highly recommeded) by [Hangtight](https://bit.ly/35ffR6v) and you may need to increase retention if you are using the vanilla Ender 5 pro
+## Modifications
+The spesific printer that I am using has some modifications on it. 
+- The main one is a Direct Drive Mod (highly recommeded) by [Hangtight](https://bit.ly/35ffR6v) and you may need to increase retention if you are using the vanilla Ender 5 pro
+- There is also a mod for moving the crossbar so it does not block the camera: [crossbar relocation](https://www.youtube.com/watch?v=4683lWXrPzY)

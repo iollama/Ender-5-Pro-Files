@@ -10,7 +10,7 @@ Currently, there is only one file and this is the main Cura profile for the Ende
 
 - [Download the profile for Cura](https://github.com/iollama/Ender-5-Pro-Files/blob/main/Ender5pro_cura_iollama_DirectDrive_20201228.curaprofile)
 
-So that you don't have to risk making typos by manually typing out the start and end G-code, here are a pair of text files that you can just copy+paste straight into Cura. These are for the Snapmaker 2 (***don't*** try to use these with the original Snapmaker).
+So that you don't have to risk making typos by manually typing out the start and end G-code, here are a pair of text files that you can just copy+paste straight into Cura.
 
 - [Ender 5 Pro Start G-code](https://github.com/iollama/Ender-5-Pro-Files/blob/main/ender-5-pro-start-code.txt)
 - [Ender 5 Pro End G-code](https://github.com/iollama/Ender-5-Pro-Files/blob/main/ender-5-pro-end-code.txt)
